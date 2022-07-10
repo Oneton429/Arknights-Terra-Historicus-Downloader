@@ -14,7 +14,7 @@
 
 - 下载`getcomic.py`
 - `pip install requests`
-- 更改代码中`comicId`的数值（链接 https://terra-historicus.hypergryph.com/comic/ 后的那串数字即为`comicId`）
+- 更改代码中`comicId`的数值（浏览器中链接 https://terra-historicus.hypergryph.com/comic/ 后的那串数字即为`comicId`）
 - 运行，会在代码所在目录生成名字格式为`编号-标题`的文件夹，文件夹中图片按顺序编号
 
 如需pdf格式请自行转换
